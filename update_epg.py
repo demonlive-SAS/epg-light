@@ -33,6 +33,7 @@ URLS = [
     'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_TBNPLUS1.xml.gz', 
     'https://iptv-epg.org/files/epg-us.xml.gz',
     'https://iptv-epg.org/files/epg-ca.xml.gz',
     'https://iptv-epg.org/files/epg-gb.xml.gz',
