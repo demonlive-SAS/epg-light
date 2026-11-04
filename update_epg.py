@@ -52,6 +52,7 @@ URLS = [
     'https://iptv-epg.org/files/epg-za.xml.gz', 
     'https://iptv-epg.org/files/epg-es.xml.gz', 
     'https://iptv-epg.org/files/epg-ve.xml.gz', 
+    'https://github.com/demonlive-SAS/RakutenTV-UK/raw/refs/heads/main/playlist.m3u', 
     'http://mains.services/xmltv.php?username=tmo247line&password=65s4d64vgfdfbae4',
     'https://github.com/demonlive-SAS/buddy_airy/raw/refs/heads/main/airy_channels.xml',
     'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz',
