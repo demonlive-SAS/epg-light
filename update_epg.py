@@ -24,6 +24,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 OUTPUT_FILE_GZ = os.path.join(OUTPUT_DIR, f"{NAME}-epg.xml.gz")
 
 URLS = [
+    'https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz', 
     'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
