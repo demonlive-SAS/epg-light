@@ -120,6 +120,7 @@ URLS = [
     'https://iptv-epg.org/files/epg-us.xml',
     'https://iptv-epg.org/files/epg-ve.xml',
     'https://iptv-epg.org/files/epg-zw.xml',
+    'https://github.com/demonlive-SAS/localnowgen/raw/refs/heads/main/epg.xml', 
 ]
 
 # Remove exact duplicate URLs while preserving order
